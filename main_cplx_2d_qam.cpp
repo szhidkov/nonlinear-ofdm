@@ -596,7 +596,7 @@ int main(int argc, char** argv)
 					I2 = accu(c % U2);
 
 					z_hat(k) = I1 / I0;
-					mu_z(k) = 0.5 * (I2 - abs(I1)*abs(I1) / (I0)) / (I0);  // abs(I1) - since I1 may be <0 due to numerical errors
+					mu_z(k) = 0.5 * (I2 - abs(I1)*abs(I1) / (I0)) / (I0);  // abs(I1) - since I1 is a complex number
 
 #else
 					// General polar nonlinearity (2D integration - very slow)
