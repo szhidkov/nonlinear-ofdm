@@ -69,8 +69,8 @@ The simulation results are stored in:
 
 ## References
 
-[1]: S. Zhidkov and R.Dinis “Belief Propagation Receivers for Near-Optimal Detection of Nonlinearly Distorted OFDM Signals,” 2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring), May 2019 [Download](http://www.cifrasoft.com/people/szhidkov/papers/belief-propagation-receivers-vtc2019.pdf)
-[2]: S. Zhidkov, "Orthogonal transform multiplexing with memoryless nonlinearity: a possible alternative to traditional coded-modulation schemes,“ in Proc. 9th International Congress on Ultra Modern Telecommunications and Control Systems (ICUMT-2017), Munich, Germany, November, 2017 [Download](https://arxiv.org/pdf/1703.03141)
+1. S. Zhidkov and R.Dinis “Belief Propagation Receivers for Near-Optimal Detection of Nonlinearly Distorted OFDM Signals,” 2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring), May 2019 [Download](http://www.cifrasoft.com/people/szhidkov/papers/belief-propagation-receivers-vtc2019.pdf)
+2. S. Zhidkov, "Orthogonal transform multiplexing with memoryless nonlinearity: a possible alternative to traditional coded-modulation schemes,“ in Proc. 9th International Congress on Ultra Modern Telecommunications and Control Systems (ICUMT-2017), Munich, Germany, November, 2017 [Download](https://arxiv.org/pdf/1703.03141)
 
 
 ## Authors
