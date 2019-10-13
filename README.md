@@ -75,7 +75,7 @@ The simulation results are stored in:
 
 ## Authors
 
-* Sergey Zhidkov - *Initial work* (https://github.com/szhidkov)
+* Sergey Zhidkov - *Initial work* (https://cifrasoft.com/people/szhidkov/)
 
 
 ## License
