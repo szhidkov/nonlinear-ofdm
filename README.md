@@ -1,6 +1,6 @@
 # Belief-propagation Receivers for Nonlinear OFDM 
 
-This is a communication system simulation code for several OFDM receivers based on generalized approximate message passing algorithm. For more details, see Ref [1, 2].
+This is a communication system simulation code for nonlinearly distorted OFDM with receivers based on generalized approximate message passing algorithm. For more details, see Ref [1, 2].
 
 ## Getting Started
 
@@ -9,7 +9,7 @@ This simulation code relies on Armadillo (C++ library for linear algebra & scien
 ### Prerequisites
 
 Firstly, you need to install Armadillo C++ library. You can download a copy of Armadillo C++ library from the official web-site (http://arma.sourceforge.net/), or you can use pre-built Armadillo packages provided by many Linux-based operating systems.
-Personally, I'm using Windows with Visual Studio 2019 and install Armadillo via vcpkg package manager (https://github.com/Microsoft/vcpkg). 
+Personally, I use Visual Studio 2019 and install Armadillo via vcpkg package manager (https://github.com/Microsoft/vcpkg). 
 
 ## Running the simulation
 
