@@ -40,7 +40,7 @@ The parameters that can be specified in cfg.txt file are given in the table belo
 | post_correction | set this value to 1 to enable 1-bit correction post-processing |
 
 
-#### Example configuration file: 
+### Example configuration file: 
 
 ```
 N = 16384
