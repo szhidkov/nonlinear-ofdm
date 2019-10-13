@@ -1,0 +1,14 @@
+N = 16384
+Nu = 4096
+I_max = 75
+G0 = 0.0
+s_scale = 0.71
+B = 0.875
+rand_seed = 12345
+EbNo =  7.75 8.0 8.25 
+L_SNR = 1000 1000 1000
+qam_order = 16
+enable_multipath_channel = 0
+enable_oob_filtering_tx = 0
+enable_oob_filtering_rx = 0
+post_correction = 1
