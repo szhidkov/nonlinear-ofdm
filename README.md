@@ -35,8 +35,8 @@ The parameters that can be specified in cfg.txt file are given in the table belo
 | enable_multipath_channel | set this value to 1 to simulate Rayleigh block-fading channel |
 | Channel taps | the number of channel taps |
 | Channel delay spread | the channel RMS delay-spread (normalized) |
-| enable_oob_filtering_tx | set this value to 1 to enable out-of-band filterign in the transmitter |
-| enable_oob_filtering_rx | set this value to 1 to enable out-of-band filterign in the receiver |
+| enable_oob_filtering_tx | set this value to 1 to enable out-of-band filtering in the transmitter |
+| enable_oob_filtering_rx | set this value to 1 to enable out-of-band filtering in the receiver |
 | post_correction | set this value to 1 to enable 1-bit correction post-processing |
 
 
